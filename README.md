@@ -32,10 +32,10 @@
         <br>
         <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5d2b90.svg?logo=visualstudio&logoColor=white">
         <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-        <!--<img alt="XAML" src="https://custom-icon-badges.demolab.com/badge/XAML-red.svg?logo=xaml&logoColor=white">
+        <img alt="XAML" src="https://custom-icon-badges.demolab.com/badge/XAML-red.svg?logo=xaml&logoColor=white">
       </p>
       <p>
-        <img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-a4c330.svg?logo=python&logoColor=white">-->
+        <!--<img alt="Python" src="https://custom-icon-badges.demolab.com/badge/Python-a4c330.svg?logo=python&logoColor=white">-->
       </p>
   </p>
     <h3>🗒 Databases and data storage</h3>
