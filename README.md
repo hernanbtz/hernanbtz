@@ -45,7 +45,7 @@
         <br>
         <!--<img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
         <br>-->
-        <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-yellow.svg?logo=firebase&logoColor=white">
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-121011.svg?logo=firebase&logoColor=yellow">
         <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-red.svg?logo=aws&logoColor=white">
         <br>
         <img alt="API" src="https://custom-icon-badges.demolab.com/badge/API%20Rest-brown.svg?logo=api&logoColor=white">
